@@ -9,6 +9,7 @@ let acierto = true
 let palabrasUsadas = []
 
 //bucle que se repite mientras se cumple la condición
+
 do{
     console.log(palabra)
     palabraNueva = readline.question('Introduce: ')
